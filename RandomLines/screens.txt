@@ -1,0 +1,1 @@
+Screen: 0 - javafx.stage.Screen@3370af05 bounds:Rectangle2D [minX = 0.0, minY=0.0, maxX=1366.0, maxY=768.0, width=1366.0, height=768.0] visualBounds:Rectangle2D [minX = 0.0, minY=0.0, maxX=1366.0, maxY=728.0, width=1366.0, height=728.0] dpi:100.0 renderScale:1.0
